@@ -20,16 +20,6 @@ Tic-Tac-Toe is a nostalgic game that reminds us of our childhood. This project b
 - Automatic detection of winning conditions.
 - Reset option to restart the game.
 
-## 📷 Screenshots
-### Game Board
-![Game Board](1.jpg)
-
-### Playing the Game
-![Gameplay](2.jpg)
-
-### Winning Screen
-![Winner Announcement](3.jpg)
-
 ## 📂 Installation & Usage
 1. Clone this repository:
    ```sh
@@ -40,6 +30,9 @@ Tic-Tac-Toe is a nostalgic game that reminds us of our childhood. This project b
    cd tic-tac-toe
    ```
 3. Open `index.html` in your browser to start playing.
+
+## 🔗 Live Demo
+Play the game here: [Tic-Tac-Toe Live]([https://your-live-demo-link.com](https://kirtiman7771.github.io/Tic-Tac-Toe-Game/))
 
 ## 🔥 Future Enhancements
 - Implement a simple AI for a single-player mode.
