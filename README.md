@@ -32,7 +32,7 @@ Tic-Tac-Toe is a nostalgic game that reminds us of our childhood. This project b
 3. Open `index.html` in your browser to start playing.
 
 ## 🔗 Live Demo
-Play the game here: [(https://kirtiman7771.github.io/Tic-Tac-Toe-Game/)]
+Play the game here: [https://kirtiman7771.github.io/Tic-Tac-Toe-Game/]
 
 ## 🔥 Future Enhancements
 - Implement a simple AI for a single-player mode.
